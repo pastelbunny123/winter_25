@@ -1,0 +1,39 @@
+body {
+    background-color:darkgray;
+}
+
+.container{
+    width: 1000px;
+    margin:0 auto;
+    border: 1px solid rgb(169, 122, 225) ;
+    padding:50px;
+    background-color: aliceblue;
+}
+
+.nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+
+}
+
+.copy{
+    font-size: 25px;
+    color:blueviolet;
+    background-color: bisque;
+}
+
+.span1{
+    color: azure;
+    font-size: xx-large;
+}
+
+.span2{
+    font-family:Verdana, 
+    Geneva, Tahoma, sans-serif;
+     color:darkmagenta;
+}

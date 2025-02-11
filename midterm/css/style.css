@@ -1,0 +1,111 @@
+.container{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(102, 123, 142) ;
+    padding:10px;
+    background-color:rgb(155, 170, 214);
+}
+
+.wintertext{
+font-size: x-large;
+text-align: center;
+color:floralwhite;
+font-family:cursive
+}
+
+.nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.phototext{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(102, 123, 142);
+    padding:10 px;
+    background-color: rgb(155, 170, 214);
+}
+
+.phototext{
+    list-style: none;
+    text-align: center;
+}
+
+.phototext li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.paragraphcontainer{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(158, 160, 161);
+    padding:10px;
+    background-color:rgb(180, 183, 194);
+}
+
+.paragraph{
+    text-align: center;
+    font-size: large;
+    color:floralwhite;
+    font-family: cursive;
+}
+
+.photocontainer{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(158, 160, 161);
+    padding:10px;
+    background-color:rgb(180, 183, 194);
+}
+
+.photo{
+    text-align: center;
+    font-size: large;
+    color:floralwhite;
+    font-family: cursive; 
+}
+
+.holidaycontainer{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(158, 160, 161);
+    padding:10px;
+    background-color:rgb(180, 183, 194);
+}
+
+.holidays{
+    text-align: center;
+    font-size: medium;
+    color:floralwhite;
+    font-family: cursive;
+}
+
+.images{
+    text-align: center;
+    font-size: medium;
+    color:floralwhite;
+    font-family: cursive;  
+}
+
+.list{
+    text-align: center;
+    font-size: medium;
+    color:floralwhite;
+    font-family: cursive; 
+    display:inline-block;  
+}
+
+.listcontainer{
+    width: 1000px;
+    margin:0 auto;
+    border: 5px solid rgb(158, 160, 161);
+    padding:10px;
+    background-color:rgb(180, 183, 194);
+    text-align: center;
+}
